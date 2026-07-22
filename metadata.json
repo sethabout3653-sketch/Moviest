@@ -1,0 +1,6 @@
+{
+  "name": "CineStream - Movies, TV Shows & Anime",
+  "description": "Stream movies, TV shows, and anime with rating certifications, streaming providers, and smooth playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
